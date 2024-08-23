@@ -173,6 +173,3 @@ Autenticación con JSON Web Token.
 
 - **Respuesta de error:** `401 Unauthorized`, `403 Forbidden`
 
-## Consideraciones Adicionales
-
-Todas las respuestas de error están acompañadas de un mensaje explicativo. Asegúrate de gestionar correctamente los casos de error en el frontend. Puedes expandir esta documentación agregando más detalles según las necesidades específicas de tu aplicación.
